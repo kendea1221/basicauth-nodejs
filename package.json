@@ -1,0 +1,24 @@
+{
+  "name": "basicauth-nodejs",
+  "version": "1.0.0",
+  "description": "This is basicauth for nodejs.\r Sample code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendea1221/basicauth-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendea1221/basicauth-nodejs/issues"
+  },
+  "homepage": "https://github.com/kendea1221/basicauth-nodejs#readme",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "express": "^4.18.2"
+  }
+}
